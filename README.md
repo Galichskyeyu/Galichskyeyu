@@ -1,2 +1,0 @@
-# galichskyeyu.github.io
-Resume
