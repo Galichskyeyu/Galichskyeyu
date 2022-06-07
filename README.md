@@ -1,3 +1,2 @@
-emin.galichsky.github.io
-
+# galichskyeyu.github.io
 Resume
