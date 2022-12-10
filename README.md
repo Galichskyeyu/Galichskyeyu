@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galichskyeyu
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Yandex Practicum
+- 👀 I’m currently interested in computers and everything related to them
+- 🌱 I’m studying the course "Python-developer" at Yandex Practicum
 
 <!---
 Galichskyeyu/Galichskyeyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
