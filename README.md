@@ -7,5 +7,6 @@
 <img src="https://www.azulschool.net/wp-content/uploads/group-avatars/24/5e87fe6a9f761-bpfull.png" height=50>
 <img src="https://media.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" height=50>
 </div>
+<br>
 
-![I’m studying the course "Python-developer" at Yandex Practicum](https://media.tenor.com/Ut1EdX0r6soAAAAC/code-monkey-checkmate-digital.gif)
+![image](https://media.tenor.com/Ut1EdX0r6soAAAAC/code-monkey-checkmate-digital.gif)
