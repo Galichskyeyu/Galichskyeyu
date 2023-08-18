@@ -12,3 +12,7 @@
 #### Follow me:
 [![Static Badge](https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk)](https://vk.com/galichskyeyu)
 [![Static Badge](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram)](https://t.me/Galichskyeyu)
+#### Stats:
+![Galichskyeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=galichskyeyu&show_icons=true&theme=dark)
+#### Langs:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galichskyeyu&layout=compact&show_icons=true&theme=dark)
