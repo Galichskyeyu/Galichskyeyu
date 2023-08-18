@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m Emin
-#### I’m studying the course "Python-developer" at Yandex Practicum
+#### I’m completed the course "Python-developer" at Yandex Practicum
 #### Core technology stack:
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/500px-Python.svg.png" height=50>
