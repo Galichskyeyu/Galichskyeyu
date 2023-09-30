@@ -1,5 +1,5 @@
 ### Всем привет 👋, меня зовут Эмин.
-#### Я прошел курс ["Python-разработчик"](https://practicum.yandex.ru/profile/backend-developer/) в Яндекс Практикуме.
+#### Я закончил курс ["Python-разработчик"](https://practicum.yandex.ru/profile/backend-developer/) в Яндекс Практикуме.
 #### Основной стек технологий:
 [![Static Badge](https://img.shields.io/badge/python-FFFF00?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Static Badge](https://img.shields.io/badge/django-006400?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
